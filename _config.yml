@@ -9,7 +9,7 @@
 title: Sudeep's site
 email: sudeepjaiswal87@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Surprised, confused and amazed.
+  Could be a little blog about work and other things.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sudeepjaiswal.com" # the base hostname & protocol for your site
 twitter_username: 
