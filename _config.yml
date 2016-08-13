@@ -40,8 +40,8 @@ analytics-google: 'UA-82403267-1'
 # medium: medium
 # vimeo: myvimeo
 github: sudeepjaiswal
+cocoapods: 9860
 email: sudeepjaiswal87@gmail.com
-cocoapods: sudeepjaiswal
 
 authors:
     sudeepjaiswal:

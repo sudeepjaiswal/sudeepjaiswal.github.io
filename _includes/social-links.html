@@ -65,15 +65,15 @@
         </a>
     {% endif %}
 
-    {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
-            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
+    {% if site.cocoapods %}
+        <a class="link" data-title="cocoapods.org/owners/{{ site.cocoapods }}" href="https://cocoapods.org/owners/{{ site.cocoapods }}" target="_blank">
+            <svg class="icon icon-cocoapods"><use xlink:href="#icon-cocoapods"></use></svg>
         </a>
     {% endif %}
 
-    {% if site.cocoapods %}
-        <a class="link" data-title="vimeo.com/{{ site.vimeo }}" href="https://vimeo.com/{{ site.cocoapods }}" target="_blank">
-            <svg class="icon icon-cocoapods"><use xlink:href="#icon-cocoapods"></use></svg>
+    {% if site.email %}
+        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
 </div>
