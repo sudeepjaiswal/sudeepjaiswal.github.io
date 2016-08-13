@@ -65,6 +65,12 @@
         </a>
     {% endif %}
 
+    {% if site.bitbucket %}
+        <a class="link" data-title="bitbucket.org/{{ site.bitbucket }}" href="https://bitbucket.org/{{ site.bitbucket }}" target="_blank">
+            <svg class="icon icon-bitbucket"><use xlink:href="#icon-bitbucket"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.cocoapods %}
         <a class="link" data-title="cocoapods.org/owners/{{ site.cocoapods }}" href="https://cocoapods.org/owners/{{ site.cocoapods }}" target="_blank">
             <svg class="icon icon-cocoapods"><use xlink:href="#icon-cocoapods"></use></svg>
