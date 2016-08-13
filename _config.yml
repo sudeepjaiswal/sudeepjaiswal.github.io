@@ -1,9 +1,6 @@
 # main text of home
 name: Sudeep Jaiswal
-bio: A dreary day for catching Pokemon
-
-# twitter summary info
-description: A blog about nothing
+bio: Scotland's shame
 
 # if it's an external image, update below for true
 # better with square images
@@ -11,7 +8,6 @@ external-image: false
 picture: assets/images/profile.jpg
 
 url: http://sudeepjaiswal.com
-# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
@@ -35,11 +31,11 @@ cocoapods: 9860
 email: sudeepjaiswal87@gmail.com
 
 authors:
-    sudeepjaiswal:
-        name: Sudeep Jaiswal
-        bio: A dreary day for catching Pokemon
-        external-image: false
-        picture: assets/images/profile.jpg
+  sudeepjaiswal:
+    name: Sudeep Jaiswal
+    bio: Scotland's shame
+    external-image: false
+    picture: assets/images/profile.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -76,8 +72,8 @@ show-author: true
 animation: true
 
 sass:
-    sass_dir: _sass
-    style: :compressed
+  sass_dir: _sass
+  style: :compressed
 
 gems:
   - jemoji
@@ -89,6 +85,6 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
