@@ -1,4 +1,29 @@
 <div class="social-links">
+
+    {% if site.github %}
+        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
+            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.bitbucket %}
+        <a class="link" data-title="bitbucket.org/{{ site.bitbucket }}" href="https://bitbucket.org/{{ site.bitbucket }}" target="_blank">
+            <svg class="icon icon-bitbucket"><use xlink:href="#icon-bitbucket"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.cocoapods %}
+        <a class="link" data-title="cocoapods.org/owners/{{ site.cocoapods }}" href="https://cocoapods.org/owners/{{ site.cocoapods }}" target="_blank">
+            <svg class="icon icon-cocoapods"><use xlink:href="#icon-cocoapods"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.email %}
+        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.facebook %}
         <a class="link" data-title="facebook.com/{{ site.facebook }}" href="http://facebook.com/{{ site.facebook }}" target="_blank">
             <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
@@ -47,12 +72,6 @@
         </a>
     {% endif %}
 
-    {% if site.github %}
-        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
-            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
-        </a>
-    {% endif %}
-
     {% if site.medium %}
         <a class="link" data-title="medium.com/@{{ site.medium }}" href="https://medium.com/@{{ site.medium }}" target="_blank">
             <svg class="icon icon-medium"><use xlink:href="#icon-medium"></use></svg>
@@ -64,22 +83,5 @@
             <svg class="icon icon-vimeo"><use xlink:href="#icon-vimeo"></use></svg>
         </a>
     {% endif %}
-
-    {% if site.bitbucket %}
-        <a class="link" data-title="bitbucket.org/{{ site.bitbucket }}" href="https://bitbucket.org/{{ site.bitbucket }}" target="_blank">
-            <svg class="icon icon-bitbucket"><use xlink:href="#icon-bitbucket"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.cocoapods %}
-        <a class="link" data-title="cocoapods.org/owners/{{ site.cocoapods }}" href="https://cocoapods.org/owners/{{ site.cocoapods }}" target="_blank">
-            <svg class="icon icon-cocoapods"><use xlink:href="#icon-cocoapods"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
-            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
-        </a>
-    {% endif %}
+    
 </div>
