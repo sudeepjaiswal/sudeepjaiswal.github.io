@@ -41,6 +41,7 @@ analytics-google: 'UA-82403267-1'
 # vimeo: myvimeo
 github: sudeepjaiswal
 email: sudeepjaiswal87@gmail.com
+cocoapods: sudeepjaiswal
 
 authors:
     sudeepjaiswal:
@@ -62,7 +63,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
 
 # do you want to show the "read time" of the posts?

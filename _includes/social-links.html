@@ -70,4 +70,10 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.cocoapods %}
+        <a class="link" data-title="vimeo.com/{{ site.vimeo }}" href="https://vimeo.com/{{ site.cocoapods }}" target="_blank">
+            <svg class="icon icon-cocoapods"><use xlink:href="#icon-cocoapods"></use></svg>
+        </a>
+    {% endif %}
 </div>
