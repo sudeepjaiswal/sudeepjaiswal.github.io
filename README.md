@@ -1,6 +1,6 @@
-# sudeepjaiswal.github.io
+# Personal website
 
-Visit: [sudeepjaiswal.com](http://www.sudeepjaiswal.com)
+Created with Jekyll and hosted on Github Pages. Visit: [sudeepjaiswal.com](http://www.sudeepjaiswal.com)
 
 # Credits
 
@@ -11,8 +11,14 @@ Visit: [sudeepjaiswal.com](http://www.sudeepjaiswal.com)
 * [How to upload a project to Github](http://stackoverflow.com/a/12800042)
 * [Easily keep gh-pages in sync with master](http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master)
 * [Error installing Gulp](http://stackoverflow.com/a/30675174)
-* [Jekyll themes](http://themes.jekyllrc.org)
 * [Build a Blog with Github - Part 1](http://artiannaswamy.com/build-a-github-blog-part-1)
 * [Build a Blog with Github - Part 2](http://artiannaswamy.com/build-a-github-blog-part-2)
-* [TryIt Editor](http://www.w3schools.com/svg/tryit.asp?filename=trysvg_path2)
 * [Jekyll front matter: For setting pages' titles](https://jekyllrb.com/docs/frontmatter)
+* [markdown target=“_blank”](http://stackoverflow.com/a/4705645)
+* [Creating an image link in Markdown format](http://meta.stackexchange.com/a/38917)
+
+# Tools
+
+* [Jekyll themes](http://themes.jekyllrc.org)
+* [TryIt Editor](http://www.w3schools.com/svg/tryit.asp?filename=trysvg_path2)
+* [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
