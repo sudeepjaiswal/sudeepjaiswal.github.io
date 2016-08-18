@@ -16,6 +16,7 @@ Created with Jekyll and hosted on Github Pages. Visit: [sudeepjaiswal.com](http:
 * [Jekyll front matter: For setting pages' titles](https://jekyllrb.com/docs/frontmatter)
 * [markdown target=“_blank”](http://stackoverflow.com/a/4705645)
 * [Creating an image link in Markdown format](http://meta.stackexchange.com/a/38917)
+* [Markdown and image alignment](http://stackoverflow.com/a/255182)
 
 # Tools
 
