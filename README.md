@@ -1,6 +1,10 @@
 # Personal website
 
-Created with Jekyll and hosted on Github Pages. Visit: [sudeepjaiswal.com](http://www.sudeepjaiswal.com)
+Created with Jekyll and hosted on Github Pages.
+
+Theme: [Indigo](https://github.com/sergiokopplin/indigo)
+
+Visit: [sudeepjaiswal.com](http://www.sudeepjaiswal.com)
 
 # Credits
 
