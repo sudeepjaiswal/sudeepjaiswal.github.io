@@ -1,10 +1,16 @@
 # Personal website
 
-Created with Jekyll and hosted on Github Pages.
+Created with [Jekyll](https://github.com/jekyll/jekyll) and hosted on [Github Pages](https://pages.github.com).
 
 Theme: [Indigo](https://github.com/sergiokopplin/indigo)
 
 Visit: [sudeepjaiswal.com](http://www.sudeepjaiswal.com)
+
+# Tools
+
+* [Jekyll themes](http://themes.jekyllrc.org)
+* [TryIt Editor](http://www.w3schools.com/svg/tryit.asp?filename=trysvg_path2)
+* [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 
 # Credits
 
@@ -22,9 +28,3 @@ Visit: [sudeepjaiswal.com](http://www.sudeepjaiswal.com)
 * [Creating an image link in Markdown format](http://meta.stackexchange.com/a/38917)
 * [Markdown and image alignment](http://stackoverflow.com/a/255182)
 * [How to start skype chat not call with link](http://stackoverflow.com/a/2841708)
-
-# Tools
-
-* [Jekyll themes](http://themes.jekyllrc.org)
-* [TryIt Editor](http://www.w3schools.com/svg/tryit.asp?filename=trysvg_path2)
-* [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
