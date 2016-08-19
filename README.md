@@ -21,6 +21,7 @@ Visit: [sudeepjaiswal.com](http://www.sudeepjaiswal.com)
 * [markdown target=“_blank”](http://stackoverflow.com/a/4705645)
 * [Creating an image link in Markdown format](http://meta.stackexchange.com/a/38917)
 * [Markdown and image alignment](http://stackoverflow.com/a/255182)
+* [How to start skype chat not call with link](http://stackoverflow.com/a/2841708)
 
 # Tools
 
