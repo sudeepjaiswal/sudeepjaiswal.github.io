@@ -1,10 +1,16 @@
 # Personal website
 
-Created with Jekyll and hosted on Github Pages.
+Created with [Jekyll](https://github.com/jekyll/jekyll) and hosted on [Github Pages](https://pages.github.com).
 
 Theme: [Indigo](https://github.com/sergiokopplin/indigo)
 
 Visit: [sudeepjaiswal.com](http://www.sudeepjaiswal.com)
+
+# Tools
+
+* [Jekyll themes](http://themes.jekyllrc.org)
+* [TryIt Editor](http://www.w3schools.com/svg/tryit.asp?filename=trysvg_path2)
+* [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 
 # Credits
 
@@ -21,9 +27,3 @@ Visit: [sudeepjaiswal.com](http://www.sudeepjaiswal.com)
 * [markdown target=“_blank”](http://stackoverflow.com/a/4705645)
 * [Creating an image link in Markdown format](http://meta.stackexchange.com/a/38917)
 * [Markdown and image alignment](http://stackoverflow.com/a/255182)
-
-# Tools
-
-* [Jekyll themes](http://themes.jekyllrc.org)
-* [TryIt Editor](http://www.w3schools.com/svg/tryit.asp?filename=trysvg_path2)
-* [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
