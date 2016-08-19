@@ -9,7 +9,7 @@ layout: page
 <img align="left" hspace="15" src="/assets/images/projects/chefend.png" width="75" height="75" />
 </a>
 
-[Chefend](http://chefend.com){:target="_blank"} is a beautifully designed social networking app designed for chefs around the world. Backended on Parse, it allows chefs to share and discover recipes; and follow others.
+[Chefend](http://chefend.com){:target="_blank"} is a beautifully designed social networking app for chefs around the world. Backended on Parse, it allows chefs to share and discover recipes; and follow others.
 
 #### GetNearer
 
@@ -70,7 +70,7 @@ layout: page
 <img align="left" hspace="15" src="/assets/images/projects/golf_by_jordan.png" width="75" height="75" />
 </a>
 
-A little app that with info about golf courses in the United States. Used Google Maps to represent courses and downloaded available images from Google's Place Photos API.
+A little app with info about golf courses in the United States. Used Google Maps to represent courses and downloaded available images from Google's Place Photos API.
 
 #### GiftyOne
 
@@ -78,7 +78,7 @@ A little app that with info about golf courses in the United States. Used Google
 <img align="left" hspace="15" src="/assets/images/projects/giftyone.png" width="75" height="75" />
 </a>
 
-[GiftyOne](http://giftyone.com){:target="_blank"} was app that leveraged Facebook's SDK to keep track of friends' birthdays so that a gift could be sent to them. It used the friend's likes and interests to get deals from Groupon.
+[GiftyOne](http://giftyone.com){:target="_blank"} was an app that leveraged Facebook's SDK to keep track of friends' birthdays so that a gift could be sent to them. It used the friend's likes and interests to get deals from Groupon.
 
 #### Calm Down Now™
 
