@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-I got into iOS development in late 2012 by sheer chance. Now I'm making a career out of it. Somewhat. The less said the better.
+The less said the better. I got into iOS development in late 2012 by sheer chance. Now I'm making a career out of it. Somewhat.
 
 I have a working knowledge of:
 

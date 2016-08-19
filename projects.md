@@ -9,7 +9,7 @@ layout: page
 <img align="left" hspace="15" src="/assets/images/projects/chefend.png" width="75" height="75" />
 </a>
 
-[Chefend](http://chefend.com){:target="_blank"} is a pretty social networking app designed for chefs around the world. Backended on Parse, it allows chefs to share and discover recipes; and follow others.
+[Chefend](http://chefend.com){:target="_blank"} is a beautifully designed social networking app designed for chefs around the world. Backended on Parse, it allows chefs to share and discover recipes; and follow others.
 
 #### GetNearer
 
@@ -17,7 +17,7 @@ layout: page
 <img align="left" hspace="15" src="/assets/images/projects/getnearer.png" width="75" height="75" />
 </a>
 
-[GetNearer](http://getnearer.in){:target="_blank"} is a social networking app exclusively for residents of Elita Promenade in Bengaluru. Flavoured with sprinkles of Facebook and WhatsApp, it enables neighbours find and connect with each other, get notified of events, communicate and help each other out.
+[GetNearer](http://getnearer.in){:target="_blank"} is a social networking app exclusively for residents of Elita Promenade in Bengaluru. Flavoured with sprinkles of Facebook and WhatsApp, it enables neighbours find and connect with each other, get notified of events, share common interests, communicate and help each other out.
 
 #### e-Lala
 
