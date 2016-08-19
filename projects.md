@@ -28,7 +28,9 @@ layout: page
 [e-Lala](http://e-lala.biz){:target="_blank"} is an initiative by [The Confederation of All India Traders](http://www.cait.in){:target="_blank"} to eliminate the middleman between traders and consumers. The portal is location based and the first of its kind in India. Each trader is registered by city is provided their own shop on the app and website. A large scale project, it has attracted some press coverage:
 
 * [e-lala to take small traders online](http://www.thehindubusinessline.com/economy/macro-economy/cait-launches-portal-elala-for-small-traders/article7908994.ece){:target="_blank"}
-* [Lala Goes Online](http://trak.in/tags/business/2015/11/24/elala-cait-counter-ecommerce-offline-traders){:target="_blank"}
+* [Lala goes online](http://trak.in/tags/business/2015/11/24/elala-cait-counter-ecommerce-offline-traders){:target="_blank"}
+* [CAIT, HDFC Bank to launch elala.biz](http://anovacorporate.co.in/uploads/news/CAIT__HDFC_Bank_to_launch_e-lala.biz.pdf)
+* [Shopmatic partners CAIT to bring its members on eLala platform](http://indiatoday.intoday.in/story/shopmatic-partners-cait-to-bring-its-members-on-elala-platform/1/553697.html){:target="_blank"}
 
 #### DRN Merchant
 
