@@ -78,7 +78,7 @@ A little app with info about golf courses in the United States. Used Google Maps
 <img align="left" hspace="15" src="/assets/images/projects/giftyone.png" width="75" height="75" />
 </a>
 
-[GiftyOne](http://giftyone.com){:target="_blank"} was an app that leveraged Facebook's SDK to keep track of friends' birthdays so that a gift could be sent to them. It used the friend's likes and interests to get deals from Groupon.
+[GiftyOne](http://giftyone.com){:target="_blank"} was an app that leveraged Facebook's SDK to keep track of friends' likes, interests and birthdays so that a Groupon deal could be gifted to them.
 
 #### Calm Down Now™
 
