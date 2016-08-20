@@ -2,7 +2,7 @@
 title: "John Cleese"
 layout: post
 date: 2016-08-16 21:13
-image: '/assets/images/'
+image: '/assets/images/blog/'
 tag:
 - comedy
 - basil fawlty
