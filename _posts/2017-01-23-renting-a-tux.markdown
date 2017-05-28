@@ -43,4 +43,4 @@ Some time later, I had cutlets and then settled down to write this.
 
 P.S.: I saw a local train at Lonavala.
 
-<img alt="The end result" width="300" src="https://lh5.googleusercontent.com/P-tJdrsusvnOmqBN_MfgA7z9rlrm9ENtTd2AXdHQ8gefwJfM1n_zn0CVDjWxRs7qKwpV5q8SFT6QMu0=w1280-h570-rw" />
+<img alt="The end result" width="300" src="http://gdurl.com/Yh0x" />
