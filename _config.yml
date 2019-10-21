@@ -23,7 +23,8 @@ analytics-google: 'UA-82403267-1'
 # if you don't have any of social below, comment the line
 github: sudeepjaiswal
 bitbucket: sudeepjaiswal
-cocoapods: 9860
+#cocoapods: 9860
+cocoapods: 45104
 email: sdpjswl1@gmail.com
 
 authors:
