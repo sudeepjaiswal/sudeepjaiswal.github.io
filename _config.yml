@@ -1,5 +1,5 @@
 # main text of home
-name: Sudeep Jaiswal
+name: Sudeep
 bio: Yes! I am a long way from home 😴
 
 # if it's an external image, update below for true
@@ -7,7 +7,7 @@ bio: Yes! I am a long way from home 😴
 external-image: false
 picture: assets/images/profile.png
 
-url: http://sudeepjaiswal.com
+url: http://sdpjswl.com
 
 permalink: /blog/:title/
 
@@ -22,14 +22,14 @@ analytics-google: 'UA-82403267-1'
 
 # if you don't have any of social below, comment the line
 github: sudeepjaiswal
-bitbucket: sudeepjaiswal
+bitbucket: sdpjswl
 #cocoapods: 9860
 cocoapods: 45104
 email: sdpjswl1@gmail.com
 
 authors:
   sudeepjaiswal:
-    name: Sudeep Jaiswal
+    name: Sudeep
     bio: Scotland's shame
     external-image: false
     picture: assets/images/profile.jpg
