@@ -4,7 +4,7 @@ Created with [Jekyll](https://github.com/jekyll/jekyll) and hosted on [Github Pa
 
 Theme: [Indigo](https://github.com/sergiokopplin/indigo)
 
-Visit: [sudeepjaiswal.com](http://www.sudeepjaiswal.com)
+Visit: [sdpjswl.com](http://sdpjswl.com)
 
 # Tools
 
