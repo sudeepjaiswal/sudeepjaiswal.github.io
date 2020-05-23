@@ -40,6 +40,6 @@ I have accidentally open sourced some libraries. I am most satisfied with:
 	<li>ASJCoreDataOperation</li>
 </ul>
 
-I publish my libraries on [Github](https://github.com/sudeepjaiswal){:target="_blank"} and [CocoaPods](https://cocoapods.org/owners/45104){:target="_blank"}. My [Bitbucket](https://bitbucket.org/sudeepjaiswal){:target="_blank"} has some demos that may or may not be of any use. If you're interested, take a look at some [projects](/projects) I've been involved with.
+I publish my libraries on [Github](https://github.com/sudeepjaiswal){:target="_blank"} and [CocoaPods](https://cocoapods.org/owners/45104){:target="_blank"}. My [Bitbucket](https://bitbucket.org/sdpjswl){:target="_blank"} has some demos that may or may not be of any use. If you're interested, take a look at some [projects](/projects) I've been involved with.
 
 I take my work seriously and try writing code that won't be made fun of. I've written spaghetti code in the past that makes me laugh now. I enjoy learning; and sharing what I have learnt. I like being asked questions and to fix bugs, and discussing technical work things.
